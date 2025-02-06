@@ -146,11 +146,3 @@ GROUP BY
      Quarter
 ORDER BY 
     Total_Sales DESC;
-
-
-	
-
-
-
-
-
