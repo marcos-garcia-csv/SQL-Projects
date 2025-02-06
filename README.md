@@ -1,4 +1,4 @@
-# SuperStore Sales
+# SuperStore Sales Report
 
 ## Overall Sales Performance 📊 
 - **Total Sales:** $2,261,536.78
