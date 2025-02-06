@@ -1,7 +1,5 @@
 # SuperStore Sales
 
-# SuperStore Sales Report
-
 ## Overall Sales Performance 📊 
 - **Total Sales:** $2,261,536.78
 - **Average Sales per Order:** $230.77
