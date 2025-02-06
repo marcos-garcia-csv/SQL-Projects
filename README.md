@@ -1,3 +1,3 @@
-# Super Store Sales
+# SuperStore Sales
 
 
